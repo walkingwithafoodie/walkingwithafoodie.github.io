@@ -4,7 +4,9 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-
+  {% if page.description %}
+    <meta name="description" content="{{ page.description}}" />
+  {% endif %}
   <div class="entry">
     {{ content }}
   </div>
