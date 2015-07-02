@@ -4,7 +4,6 @@ title: Curried Summer Salad
 published: true
 ---
 
-Curried Summer Salad
 
 ![Curried Summer Salad](https://2.bp.blogspot.com/-4ftgrW1bXL8/VW4OBNBJNKI/AAAAAAAAAVw/Cv_75kTlTM8/s400/IMG_2666.JPG) 
 
