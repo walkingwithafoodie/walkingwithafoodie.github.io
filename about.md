@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Food brings people together
 permalink: /about/
 ---
 
