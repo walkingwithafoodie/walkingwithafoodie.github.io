@@ -4,8 +4,6 @@ title: Food brings people together
 permalink: /about/
 ---
 
-Food brings people together
-
 ### Family Upbringing
 
 Nothing in the world brings people together like food. Many people in the world have said this type of phrase before but for me it’s true. I am nothing but a self-taught cook with a passion for food. This is the humble story of my life through food. I have been cooking in my Grandma’s kitchen for as long as I can remember.
