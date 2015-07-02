@@ -4,9 +4,8 @@ title: Curried Summer Salad
 published: true
 ---
 
-Curried Summer Salad2
+Curried Summer Salad
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 ![Curried Summer Salad](https://2.bp.blogspot.com/-4ftgrW1bXL8/VW4OBNBJNKI/AAAAAAAAAVw/Cv_75kTlTM8/s400/IMG_2666.JPG) 
 
 Where I live there are basically two different seasons: cold blowing snow or hot and humid. However, we are still able to grow a lot of different things and this is the beginning of the farmers market season. Last week at the market I found some delicious fresh vegetables. Some of which were butter lettuce and scallions. Not only did I get vegetable but my favorite vendor gave me a bouquet of fresh flowers, which are making my home smell beautiful. 
