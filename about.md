@@ -6,11 +6,7 @@ permalink: /about/
 
 ### Family Upbringing
 
-Nothing in the world brings people together like food. Many people in the world have said this type of phrase before but for me it’s true. I am nothing but a self-taught cook with a passion for food. This is the humble story of my life through food. I have been cooking in my Grandma’s kitchen for as long as I can remember.
-
-As a family food was always the center of everything not just a holiday or birthday but every day at 10 am and 3:30 pm the men would come in from the field for an afternoon pop and cookie, and dinner was served at exactly 12 pm and supper was at 6 pm. Each meal or snack would require thought and preparation. Every time that I was at my Grandparent’s house and I would help cook every meal and more. From then on I fell in love with cooking and feeding people.
-
-This passion grew into watching Julia Child and Jacques Pépin on Saturday morning, to watching the food network and learning everything that I could about cooking and food. When I was a teenager I started going to my Aunt’s house for the summer and there I could even further my passion because she loved food as much as I did.
+I need inspiration at times that doesn't just come from a single ingredient, a trip to Whole Foods, or the Farmers Market, so I often follow top notch chefs, gather inspiration from Food and Wine, Food Network tv shows, or as of late, Modernist Cuisine. By no means is the list of magazines, books and more what I have learned the most from or have, but these should get you started.
 
 ## Living through food
 
@@ -18,8 +14,28 @@ While going to college I began to experiment more and more especially with India
 
 I hope I can inspire you or someone you know because cooking can be truly fun and exciting.
 
-### Contact me
+### Websites
 
-[Email](mailto:mwalkingwithafoodie.com)
-[Twitter](twitter.com/walkingwithafoodie.com)
-[Phone](712-363-5397)
+[All Recipies](http://allrecipes.com/)
+[Epicurious](http://www.epicurious.com/)
+[Food and Wine](http://www.foodandwine.com/)
+[Food Network](http://www.foodnetwork.com/)
+[Better Homes and Gardens](http://www.bhg.com/recipes/)
+[Wine Spectator](http://www.winespectator.com/)
+
+###Books
+
+[Mastering the Art of French Cooking](http://www.amazon.com/Mastering-Art-French-Cooking-Set/dp/0307593525/ref=sr_1_2?s=books&ie=UTF8&qid=1400694850&sr=1-2&keywords=mastering+the+art+of+french+cooking)
+[Modernist Cuisine](http://www.amazon.com/Modernist-Cuisine-The-Science-Cooking/dp/0982761007/ref=sr_1_2?ie=UTF8&qid=1406001268&sr=8-2&keywords=modernist+cuisine)
+[Better Homes and Gardens Cookbook](http://www.amazon.com/Better-Homes-Gardens-Cook-Book/dp/0470560800/ref=sr_1_1?s=books&ie=UTF8&qid=1400694955&sr=1-1&keywords=better+homes+and+gardens+cookbook)
+Hometown Cookbooks (The older the better)
+
+###Magazines
+
+[Food and Wine](https://subscription.foodandwine.com/storefront/subscribe-to-food-and-wine/site/wi-sem-3term-prem.html?link=1021723&fpa_oc=F%26W+2014+SEM+Utensil+Set)
+[Wine Spectator](https://w1.buysub.com/pubs/M5/WNE/WS-Sub-PocketGuide.jsp?cds_page_id=72490&cds_mag_code=WNE&id=1400695032438&lsid=41411257124048433&vid=1)
+[Saveur](http://www.saveur.com/)
+
+###TV Shows
+
+
