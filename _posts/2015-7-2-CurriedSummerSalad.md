@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Curried Summer Salad
+description: Mild marsala salad with head on shrimp, Sous Vide salad turnips, raw scallions, pea shoots, and chive blossoms. Accompanied by a bouquet of fresh flowers from Lindas Garden
 published: true
 ---
 
 
 ![Curried Summer Salad](https://2.bp.blogspot.com/-4ftgrW1bXL8/VW4OBNBJNKI/AAAAAAAAAVw/Cv_75kTlTM8/s400/IMG_2666.JPG) 
 
-Where I live there are basically two different seasons: cold blowing snow or hot and humid. However, we are still able to grow a lot of different things and this is the beginning of the farmers market season. Last week at the market I found some delicious fresh vegetables. Some of which were butter lettuce and scallions. Not only did I get vegetable but my favorite vendor gave me a bouquet of fresh flowers, which are making my home smell beautiful. 
+Farmers market season is upon us in South Dakota and the growing season has spurred a lot of different things with our hot and humid weather. At last weeks market, I found some delicious fresh vegetables, some of which were butter lettuce and scallions. Not only did I get vegetables but my favorite vendor gave me a bouquet of fresh flowers, which are making my home smell beautiful. 
 
 ![Curried Summer Salad](https://2.bp.blogspot.com/-4ftgrW1bXL8/VW4OBNBJNKI/AAAAAAAAAVw/Cv_75kTlTM8/s400/IMG_2666.JPG) 
 
