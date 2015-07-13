@@ -6,15 +6,15 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 
-      <div class="entry">
+      <h3>
         {% if post.description %}
         {{ post.description | truncatewords: 50 }}
         {% else %}
         {{ post.content | strip_html | truncatewords: 50 }}
         {% endif %}
-      </div>
+      </h3>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
