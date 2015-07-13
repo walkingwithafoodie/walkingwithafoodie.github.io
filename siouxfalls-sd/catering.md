@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Full service Catering, Sioux Falls, South Dakota for Corporate entertaining, drop-offs, set-ups, to fully staffed; dishes catered to your request
-permalink: /siouxfalls-sd/catering/
+permalink: /siouxfalls-sd/catering
 ---
 
 ##Corporate entertaining, full service catering and weddings##
