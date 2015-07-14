@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Inspiration
+title: Inspiration through Ingredients
+description: Culinary path to inspiration through a vibrant ingredients, local Farmers Markets, reading top chefs tweets, read magazines like Modernist Cuisine, and watch and sometimes critique television shows. 
 permalink: /inspiration/
 ---
 
+##Path to learning starts by inspiration
 
-I need inspiration at times that doesn't just come from a single ingredient, a trip to Whole Foods, or the Farmers Market, so I often follow top notch chefs, gather inspiration from Food and Wine, Food Network tv shows, or as of late, Modernist Cuisine. By no means is the list of magazines, books and more what I have learned the most from or have, but these should get you started.
+I need inspiration at times that doesn't just come from a single ingredient, a trip to Whole Foods, or the Farmers Market, so I often follow top notch chefs, gather inspiration from Food and Wine, Food Network tv shows, or as of late, Modernist Cuisine. These lists are where my inspiration and enjoyment started, by no means are the only things I have learned from. Use these as a guide, and don't become a [recipe burglar](http://www.foodandwine.com/articles/new-era-of-the-recipe-burglar) but these should get you started.
 
 ### Websites
 
