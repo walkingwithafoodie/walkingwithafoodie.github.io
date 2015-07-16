@@ -7,7 +7,7 @@ published: true
 
 ##Rabbit Stew with Cherry Compote##
 
-[Rabbit Stew](https://lh3.googleusercontent.com/-PiLPpW7nycY/U-TsWpZNoSI/AAAAAAAAAP0/aA2fiJgFkRs/s912-Ic42/IMG_3570.JPG)
+![Rabbit Stew](https://lh3.googleusercontent.com/-PiLPpW7nycY/U-TsWpZNoSI/AAAAAAAAAP0/aA2fiJgFkRs/s912-Ic42/IMG_3570.JPG)
 
 A few months ago I made a rabbit stew and my fiancee keeps begging for another one. Since its been cold and rainy for a couple of days I decided to make him one. Last time I made a Moroccan tagine inspired stew but this time I had a bunch of fresh cherries so I decided to play with fruity flavors along with the rabbit.
 
@@ -30,18 +30,18 @@ While the rabbit was braising I started to make the cherry compote. I sauteed so
 ###Rice, Couscous, or Polenta? ###
 The last component of the dish was a base. Sometimes I use rice or couscous but this time I used soft polenta. I like this because of the creaminess that it gives to the stew when you eat it all together.
 
-[Polenta Base for the Stew](https://lh3.googleusercontent.com/-FvstPhNdZZ0/U-UNok-cPLI/AAAAAAAAAQE/J4Ytro1GeqM/s1280-Ic42/IMG_3542.JPG)
+![Polenta Base for the Stew](https://lh3.googleusercontent.com/-FvstPhNdZZ0/U-UNok-cPLI/AAAAAAAAAQE/J4Ytro1GeqM/s1280-Ic42/IMG_3542.JPG)
 
-[Vegetables from the stew](https://lh3.googleusercontent.com/-ViNVorE81Uo/U-UNwbzlHBI/AAAAAAAAAQM/mRhq8IM1IVk/s912-Ic42/IMG_3550.JPG)
+![Vegetables from the stew](https://lh3.googleusercontent.com/-ViNVorE81Uo/U-UNwbzlHBI/AAAAAAAAAQM/mRhq8IM1IVk/s912-Ic42/IMG_3550.JPG)
 
 Finally I got to plate it all together and eat it. I put a good amount of the polenta in the bottom of the bowl. topped with the vegetables and sauce from the stew. Then I
 put two pieces of the rabbit on top
 
-[Plated the Braised Rabbit](https://lh3.googleusercontent.com/-BLJis3a4ack/U-UN33IDomI/AAAAAAAAAQU/unDjYvQiyEM/s912-Ic42/IMG_3560.JPG)
+![Plated the Braised Rabbit](https://lh3.googleusercontent.com/-BLJis3a4ack/U-UN33IDomI/AAAAAAAAAQU/unDjYvQiyEM/s912-Ic42/IMG_3560.JPG)
 
 Finished it with some of the compote and micro greens.
 
-[Finished Stew](https://lh3.googleusercontent.com/-SA6xwreF3F0/U-UOHlQpBJI/AAAAAAAAAQk/JUqG9nix-MQ/s912-Ic42/IMG_3570.JPG)
+![Finished Stew](https://lh3.googleusercontent.com/-SA6xwreF3F0/U-UOHlQpBJI/AAAAAAAAAQk/JUqG9nix-MQ/s912-Ic42/IMG_3570.JPG)
 
 ###Happy cooking###
 This dish turned out great and my fiancee loved it. This is more of a winter time dish but since it was cold and rainy it worked quite well. I can't wait to try out more ideas with rabbit but in the mean time I hope you enjoy this and happy cooking.
