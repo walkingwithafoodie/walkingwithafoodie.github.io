@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Rabbit Stew Braised in Red Wine
+title: Rabbit Stew Braised in Red Wine with Cherry Compote
 description: Rabit stew with fresh vegetables, dikon radish, fava beans, broccoli; braised in Red Wine and Chicken Stock. Plated with Polenta for creaminess, topped with Micro Greens and a cherry compote for sweetness
 published: true
 redirect_from: "/2014/08/red-wine-braised-rabbit-stew.html"
 ---
 
-##Rabbit Stew with Cherry Compote##
+##Rainy day stew##
 
 ![Rabbit Stew](https://lh3.googleusercontent.com/-PiLPpW7nycY/U-TsWpZNoSI/AAAAAAAAAP0/aA2fiJgFkRs/s912-Ic42/IMG_3570.JPG)
 
