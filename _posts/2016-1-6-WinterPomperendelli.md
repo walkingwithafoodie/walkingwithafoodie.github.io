@@ -1,10 +1,21 @@
-Winter Pomperendelli
+---
+layout: post
+title: Winter Pomperendelli
+description: Fresh delicious pasta made using Lidia Bastianich's recipe with a light sauce and winter vegetables. There is nothing better than making fresh pasta. Yes it takes time but the result is so worth it that you will never want to use store bought pasta again. This light and tangy sauce lets the pasta shine though. 
+published: true
+---
 
-Zucchini, Mushrooms, Garlic, lemon zest, Dinosaur and Red Kale until bright green. Cool. Then put the sliced Kielbasa on the heat, the fat rendering out will be used to make the rue.
+##Winter pappardelle
+
+I started by making Lidia Bastianich's fresh egg pasta recipe. I have tried several different methods and ratios but hers works perfectly for me every time. Her recipe can be found here. 
+
+While waiting for the pasta to rest dice and then sear in a hot pan some zucchini, Mushrooms, garlic Dinosaur and Red Kale until bright green. Salt and finish with half a lemon’s worth or zest. and remove from the pan. Then put the sliced Kielbasa on the heat, the fat rendering out will be used to make the rue. I also added some rotisserie chicken after searing the Kielbasa. Once they are heated through add to the veggies. and mix.
 
 The trick to this dish is having the sauce completely done before the pasta comes out. This is because fresh pasta requires 3 minutes to cook, if you aren't ready, your pasta will be done way too early compared to the rest of your dish.
 
-The rue. Using the same pan as the veggies and rendered fat from the kielbasa, make a light colored rue, is this case I had fortified stock instead of plain stock, and added crème fraiche because I wanted the dish to be a light tangy sauce, not a thick rich sauce (like spaghetti sauce) that would overpower the fresh pasta. The longer this sauce simmers the better it will be.
+###The rue
+
+The rue. Using the same pan as the veggies and rendered fat from the kielbasa, make a light colored rue, is this case I had fortified stock instead of plain stock, and added crème fraiche because I wanted the dish to be a light tangy sauce, not a thick rich sauce (like spaghetti sauce) that would overpower the fresh pasta. Always taste and add salt as needed I also like to add a bit of crushed red pepper for some heat. The longer this sauce simmers the better it will be.
 
 Tasting it, yum. It's getting there.
 
@@ -18,7 +29,11 @@ Side note: Flavored pasta are created by putting mushroom or spinach directly in
 
 Guess what? It's time to start.
 
+###Rolling out the Fresh Pasta 
+
 Unwrapping the pasta dough and feeling it, it's slightly sticky and when cutting one into six should be tough attachment l and flatten one of those 6 into a triangle or rectangle. Then on the roller’s widest setting I pass the dough through. Then I fold the dough into 3rds and pass the small end through the roller again. This is called kneading the dough and I continue this process with the rest of the dough pieces. Being careful to capture it on the backs of my hands as not to leave finger dimples in the dough and to keep all the pieces covered when not working with them.
+
+###Let the Dough relax
 
 Now it's time to make it thinner. We do this in stages to let it relax, going from step 1 to thickness 3 can tear the dough and that's not fun.
 
@@ -26,19 +41,24 @@ Sprinkle each piece with flour, to keep it from sticking and shake off any extra
 
 If you roll thinner and cut thinner, it could be spaghetti or Fettuccine noodles. The thicker they are the longer it takes to dry and the possibility of moisture remaining while storing and it going bad.
 
+##Pappardelle and Fettuccine to dry
 
 I made 2 batches one of pappardelle and one fettuccine. The pappardelle is for the dish and the fettuccine is to dry. When making pasta I tend to always dry some since I am making some anyway. When drying noodles place them on a drying rack until they crack and fall off. Since they will crack in half make sure to double the length that you want. If you use them fresh cut them to length before running them through the cutter.
 
 While the pasta is waiting to go in place them on a half rack dusted with flour and covered with a towel. This keeps them fresh and from sticking together.
 
-Check your sauce, it might be too thick by now.Taste and add more stock or water until sauce is thinly covering the back of a spoon and when you drag your finger through it the line stays. Then add veggies and mix. Also be careful not to over sauce your pasta. We really want to highlight the freshness of the pasta and not to hide it with an overpowering thick heavy sauce.
+###Check your Sauce
+
+Check your sauce, it might be too thick by now. Taste and add more stock or water until sauce is thinly covering the back of a spoon and when you drag your finger through it the line stays. Then add veggies and mix. Also be careful not to over sauce your pasta. We really want to highlight the freshness of the pasta and not to hide it with an overpowering thick heavy sauce.
 
 Now cook the pasta. Fresh pasta takes no time at all. Once you put it in stir and wait until they float. Taste one to make sure it's al dente. Mine only took a minute. Then add drained pasta  to the sauce and toss together.
+
+###Plating and finishing the dish
 
 I LOVE to plate pasta like this in a big bowl and finish it with some good hard cheese lemon zest and citrus finishing oil.
 
 Nothing sexier than hand made pasta, just saying
 
-When tasting the dish I get notes of smokiness from the Kielbasa, richness of the dish removed with the citrus, tanginess from the crème fraiche ,`grassy quality from the kale, slight nuttiness from the fond. Overall this was an excellent dish using what is in season and highlighting the fresh pasta and a good learning opportunity for my husband.
+###Tasting the Dish
 
-
+When tasting the dish I get notes of smokiness from the Kielbasa, richness of the dish removed with the citrus, tanginess from the crème fraiche , grassy quality from the kale, slight nuttiness from the fond. Overall this was an excellent dish using what is in season and highlighting the fresh pasta and a good learning opportunity for my husband.
