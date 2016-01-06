@@ -7,7 +7,7 @@ published: true
 
 ##Winter Pappardelle
 
-I started by making Lidia Bastianich's fresh egg pasta recipe. I have tried several different methods and ratios but hers works perfectly for me every time. Her recipe can be found here. 
+I started by making [Lidia Bastianich's fresh egg pasta recipe](http://www.pbs.org/food/recipes/fresh-egg-pasta/). I have tried several different methods and ratios but hers works perfectly for me every time.
 
 While waiting for the pasta to rest dice and then sear in a hot pan some zucchini, Mushrooms, garlic Dinosaur and Red Kale until bright green. Salt and finish with half a lemon’s worth or zest. and remove from the pan. Then put the sliced Kielbasa on the heat, the fat rendering out will be used to make the rue. I also added some rotisserie chicken after searing the Kielbasa. Once they are heated through add to the veggies. and mix.
 
