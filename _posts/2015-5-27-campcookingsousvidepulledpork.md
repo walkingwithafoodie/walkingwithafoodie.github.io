@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Camping and Cooking 
+title: Camping and Cooking Sous Vide Pulled Pork, Succotash, and enjoying a Greek Salad
+description: Cooking over a campfire, Charred Sous Vide Pulled Pork, Grilled Veggies and a Greek Feta Salad, and Succotash.
 published: true
 ---
 
@@ -14,7 +15,7 @@ To my husband and I there is nothing more relaxing than going camping. This past
 
 ###Souv Vide Pulled Pork###
 
-Even though we were camping, the quality of food did not diminish. Over the course of three days we split up the meals so that neither couple would have to be more putout than the other. My dishes included pulled pork with coleslaw grilled veggies and Greek feta salad and succotash. My pulled pork was sous vide with a rub on it made from fennel seeds, oregano, paprika, brown mustard, bay leaves, japones, chipotles, and guajiilo chilies. At the campsite we charred it over the open fire, pulled it apart, and then finished with my homemade bourbon chili BBQ sauce. But, one last thing for the sandwich, a creamy acidic coleslaw was made (at home) to top the pork.  
+Even though we were camping, the quality of food did not diminish. Over the course of three days we split up the meals so that neither couple would have to be more putout than the other. My dishes included pulled pork with coleslaw, grilled veggies, and Greek feta salad and succotash. My pulled pork was sous vide with a rub on it made from fennel seeds, oregano, paprika, brown mustard, bay leaves, japones, chipotles, and guajiilo chilies. At the campsite we charred it over the open fire, pulled it apart, and then finished with my homemade bourbon chili BBQ sauce. But, one last thing for the sandwich, a creamy acidic coleslaw was made (at home) to top the pork.  
 
 ###Succotash, and Greek Salad###
 
