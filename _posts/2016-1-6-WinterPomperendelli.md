@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Winter Pomperendelli
+title: Winter Pappardelle
 description: Fresh delicious pasta made using Lidia Bastianich's recipe with a light sauce and winter vegetables. There is nothing better than making fresh pasta. Yes it takes time but the result is so worth it that you will never want to use store bought pasta again. This light and tangy sauce lets the pasta shine though. 
 published: true
 ---
 
-##Winter pappardelle
+##Winter Pappardelle
 
 I started by making Lidia Bastianich's fresh egg pasta recipe. I have tried several different methods and ratios but hers works perfectly for me every time. Her recipe can be found here. 
 
@@ -37,7 +37,7 @@ Unwrapping the pasta dough and feeling it, it's slightly sticky and when cutting
 
 Now it's time to make it thinner. We do this in stages to let it relax, going from step 1 to thickness 3 can tear the dough and that's not fun.
 
-Sprinkle each piece with flour, to keep it from sticking and shake off any extra. It's all about feel if you need the additional flour, if it sticks to your hand it'll stick to the machine. Now start again with 3 for pomperendelli ( fat thick noodles). Next roll loosely and cut into .75 inch pieces and unroll one at a time. You are done with one of the pieces, now repeat that last step for each of your pieces.
+Sprinkle each piece with flour, to keep it from sticking and shake off any extra. It's all about feel if you need the additional flour, if it sticks to your hand it'll stick to the machine. Now start again with 3 for pappardelle ( fat thick noodles). Next roll loosely and cut into .75 inch pieces and unroll one at a time. You are done with one of the pieces, now repeat that last step for each of your pieces.
 
 If you roll thinner and cut thinner, it could be spaghetti or Fettuccine noodles. The thicker they are the longer it takes to dry and the possibility of moisture remaining while storing and it going bad.
 
